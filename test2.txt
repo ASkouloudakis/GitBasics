@@ -1,1 +1,2 @@
 This is an entry in test2.txt
+Second entry in test2.txt
